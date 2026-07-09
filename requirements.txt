@@ -1,0 +1,7 @@
+rich
+colorama
+pywin32
+psutil
+mouse
+pillow
+tqdm
